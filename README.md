@@ -1,1 +1,2 @@
 # Payroll-Tracker
+this website has been desigend to track employee payroll in JavaScript programming creating web applications that manage and track payroll data for employees. These applications typically allow users to input employee first name,last name and salary. Also chosing a random winner from the entered employees.
